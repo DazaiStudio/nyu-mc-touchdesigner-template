@@ -1,0 +1,13 @@
+## TouchDesigner
+*.toe.dir/
+*.lck
+
+## Backups (keep only in local)
+Ballroom/Backup/
+
+## Claude
+.claude/
+
+## OS
+Thumbs.db
+.DS_Store
