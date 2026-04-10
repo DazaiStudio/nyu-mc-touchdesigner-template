@@ -1,19 +1,19 @@
-# Media Commons DMX Lighting Control
+# NYU Media Commons DMX Lighting Control
 
-TouchDesigner-based DMX lighting control system for the 370 Jay Street Media Commons facility, outputting via sACN (streaming ACN / E1.31).
+TouchDesigner-based DMX lighting control system for the NYU 370 Jay Street Media Commons facility, outputting via sACN (streaming ACN / E1.31).
 
-https://github.com/user-attachments/assets/mc-td-demo.mp4
+https://github.com/DazaiStudio/mediacommons-td-template/raw/main/mc-td-demo.mp4
 
 ## Rooms & Fixtures
 
-The system controls 4 rooms on **sACN Universe 1**:
+The system controls 4 rooms at the NYU Media Commons on **sACN Universe 1**:
 
 | Room | Fixtures |
 |------|----------|
-| 221 – Ballrooms | Sixpar 300IP, ETC D22 LustrPlus, ETC Source 4WRD Color, Elation Unibar |
-| 222 – Ballrooms | (shared fixture pool) |
-| 223 – Ballrooms | (shared fixture pool) |
-| 224 – Ballrooms | (shared fixture pool) |
+| 221 – Ballroom | Sixpar 300IP, ETC D22 LustrPlus, ETC Source 4WRD Color, Elation Unibar |
+| 222 – Ballroom | (shared fixture pool) |
+| 223 – Ballroom | (shared fixture pool) |
+| 224 – Ballroom | (shared fixture pool) |
 
 ### Fixture Summary
 
